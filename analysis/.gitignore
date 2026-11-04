@@ -1,0 +1,9 @@
+analysis/.Rhistory
+analysis/.RData
+analysis/.Rproj.user/
+analysis/.Ruserdata
+data/*.csv.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+figures/*.png
